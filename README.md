@@ -1,8 +1,6 @@
-### Hi there, I'm [Much Ivan](https://github.com/much-ivan) 👋
-
 <div align="center">
 
-# Hi there, I'm Much Ivan 👋
+# Hi there, I'm [Much Ivan](https://github.com/much-ivan) 👋
 
 ### Machine Learning Engineer | Data Scientist | AI Enthusiast
 
