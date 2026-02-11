@@ -1,16 +1,12 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-
 <h2 align="left">Hi There, I'm Much Ivan 👋</h2>
 
 ###
 
-<p align="left">I completed my Bachelor’s degree in Informatics with a specialization in Artificial Intelligence from Universitas Teknologi Yogyakarta, Indonesia. I focus on building practical Machine Learning and Data Science solutions for real-world applications.<br>My work covers the end-to-end Data Science process, from data preprocessing and feature engineering to model development and evaluation.<br>I have experience in data collection, cleaning, and analysis, and have built a SaaS solution to improve operational efficiency for several businesses. I primarily work in Linux-based environments and value structured experimentation and reproducibility.<br><br>
-### 🔬 My Research Interests<br><br>- Machine Learning  <br>- Data Science  <br>- Quantitative Analysis  <br>- Classification  <br>- Clustering  <br>- Anomaly Detection  <br><br>
-### 🤝 I Am Open To<br><br>- Any collaboration work  <br>- Machine learning projects (development or research)  <br>- Research internships</p>
+<p align="left">I completed my Bachelor’s degree in Informatics with a specialization in Artificial Intelligence from Universitas Teknologi Yogyakarta, Indonesia. I focus on building practical Machine Learning and Data Science solutions for real-world applications.<br>My work covers the end-to-end Data Science process, from data preprocessing and feature engineering to model development and evaluation.<br>I have experience in data collection, cleaning, and analysis, and have built a SaaS solution to improve operational efficiency for several businesses. I primarily work in Linux-based environments and value structured experimentation and reproducibility.</p>
+
+###
+
+<p align="left">🔬 My Research Interests<br>- Machine Learning  <br>- Data Science  <br>- Quantitative Analysis  <br>- Classification  <br>- Clustering  <br>- Anomaly Detection  <br><br>🤝 I Am Open To<br>- Any collaboration work  <br>- Machine learning projects (development or research)  <br>- Research internships</p>
 
 ###
 
@@ -99,13 +95,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
   </a>
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
