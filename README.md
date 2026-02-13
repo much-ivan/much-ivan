@@ -10,7 +10,7 @@
 
 ## 💫 About Me
 
-I completed my Bachelor's degree in **Informatics** with a specialization in **Artificial Intelligence** from [Universitas Teknologi Yogyakarta](https://www.uty.ac.id/), Indonesia. I am focused on building practical Machine Learning and Data Science solutions for real-world applications.
+I completed my Bachelor's degree in **Informatics** with a specialization in **Artificial Intelligence** from [Universitas Teknologi Yogyakarta](https://uty.ac.id/), Indonesia. I am focused on building practical Machine Learning and Data Science solutions for real-world applications.
 
 My work covers the end-to-end Data Science process, including data preprocessing, feature engineering, model development, and evaluation to generate meaningful insights. I have freelance experience in data collection, cleaning, and analysis, and have built a **SaaS solution** to improve operational efficiency for several businesses.
 
